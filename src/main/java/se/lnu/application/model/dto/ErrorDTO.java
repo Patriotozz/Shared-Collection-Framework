@@ -20,3 +20,4 @@ public class ErrorDTO {
         this.message = message;
     }
 }
+//Minor useless changes
